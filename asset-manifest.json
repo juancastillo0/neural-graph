@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neural-graph/static/css/main.c96daf1b.chunk.css",
+    "main.js": "/neural-graph/static/js/main.874fac78.chunk.js",
+    "main.js.map": "/neural-graph/static/js/main.874fac78.chunk.js.map",
+    "runtime-main.js": "/neural-graph/static/js/runtime-main.b079dfff.js",
+    "runtime-main.js.map": "/neural-graph/static/js/runtime-main.b079dfff.js.map",
+    "static/js/2.e7415f6e.chunk.js": "/neural-graph/static/js/2.e7415f6e.chunk.js",
+    "static/js/2.e7415f6e.chunk.js.map": "/neural-graph/static/js/2.e7415f6e.chunk.js.map",
+    "index.html": "/neural-graph/index.html",
+    "precache-manifest.2d9fa1fe3916e882ee889a167c6efb6a.js": "/neural-graph/precache-manifest.2d9fa1fe3916e882ee889a167c6efb6a.js",
+    "service-worker.js": "/neural-graph/service-worker.js",
+    "static/css/main.c96daf1b.chunk.css.map": "/neural-graph/static/css/main.c96daf1b.chunk.css.map",
+    "static/js/2.e7415f6e.chunk.js.LICENSE.txt": "/neural-graph/static/js/2.e7415f6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b079dfff.js",
+    "static/js/2.e7415f6e.chunk.js",
+    "static/css/main.c96daf1b.chunk.css",
+    "static/js/main.874fac78.chunk.js"
+  ]
+}
