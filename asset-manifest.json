@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/neural-graph/static/css/main.c96daf1b.chunk.css",
-    "main.js": "/neural-graph/static/js/main.f81063d8.chunk.js",
-    "main.js.map": "/neural-graph/static/js/main.f81063d8.chunk.js.map",
+    "main.js": "/neural-graph/static/js/main.9805a3af.chunk.js",
+    "main.js.map": "/neural-graph/static/js/main.9805a3af.chunk.js.map",
     "runtime-main.js": "/neural-graph/static/js/runtime-main.b079dfff.js",
     "runtime-main.js.map": "/neural-graph/static/js/runtime-main.b079dfff.js.map",
-    "static/js/2.ade1e516.chunk.js": "/neural-graph/static/js/2.ade1e516.chunk.js",
-    "static/js/2.ade1e516.chunk.js.map": "/neural-graph/static/js/2.ade1e516.chunk.js.map",
+    "static/js/2.82eb49d6.chunk.js": "/neural-graph/static/js/2.82eb49d6.chunk.js",
+    "static/js/2.82eb49d6.chunk.js.map": "/neural-graph/static/js/2.82eb49d6.chunk.js.map",
     "index.html": "/neural-graph/index.html",
-    "precache-manifest.943eac8541f8e73366c6c2f2aa60836c.js": "/neural-graph/precache-manifest.943eac8541f8e73366c6c2f2aa60836c.js",
+    "precache-manifest.49c0f70db980eb73fce4bbce8b454536.js": "/neural-graph/precache-manifest.49c0f70db980eb73fce4bbce8b454536.js",
     "service-worker.js": "/neural-graph/service-worker.js",
     "static/css/main.c96daf1b.chunk.css.map": "/neural-graph/static/css/main.c96daf1b.chunk.css.map",
-    "static/js/2.ade1e516.chunk.js.LICENSE.txt": "/neural-graph/static/js/2.ade1e516.chunk.js.LICENSE.txt"
+    "static/js/2.82eb49d6.chunk.js.LICENSE.txt": "/neural-graph/static/js/2.82eb49d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b079dfff.js",
-    "static/js/2.ade1e516.chunk.js",
+    "static/js/2.82eb49d6.chunk.js",
     "static/css/main.c96daf1b.chunk.css",
-    "static/js/main.f81063d8.chunk.js"
+    "static/js/main.9805a3af.chunk.js"
   ]
 }
